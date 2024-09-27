@@ -58,6 +58,7 @@ Finding a discord bot that is capable of playing spotify audio has become more d
    - Open up sound settings (search in windows bar or right click your sounds and open it)
    - Scroll all the way to the bottom to "Advanced Sound Options" and select "App volume and device preferences"
    - Find the application you want to be played through your bot and change both output and input to the VB audio drive cable
+     
      ![image](https://github.com/user-attachments/assets/7c3996a2-2cf0-4919-8fc9-268017ca20a4)
 
    - Run the bot using "node MusicBot.js" in the terminal and unmute it in discord if it joined muted. Ensure you started playing audio already and it should begin playing in about a minute through the bot.
