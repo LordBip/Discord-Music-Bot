@@ -31,12 +31,15 @@ Finding a discord bot that is capable of playing spotify audio has become more d
 
         ![image](https://github.com/user-attachments/assets/2a04e78c-8a41-4790-b29e-b37685e6f168)
 
-    - Create a discord bot (skip if you already have one). You can create a discord bot by going to [https://discord.com/developers/docs/quick-start/getting-started] and creating a app. Once your app is created, name your bot and head over to the OAUTH2 tab to generate a invite link. In this tab you can ignore the top half of the page and in "OAuth2 URL Generator" select "bot". This will open a new set of options where you can select permissions. I believe all we will need are the 3 options selected in the image below (Connect, Speak, Use Voice Activity), we may not even need "Use Voice Activity" however i am unsure as my used bot is given "administrator" permissions. Lastly go ahead and copy and paste your generated link into your browser or discord, and add your bot to the desired server. (You may have to give your bot permissions once in the server if channels are hidden etc) 
+    - Create a discord bot (skip if you already have one). You can create a discord bot by going to [https://discord.com/developers/docs/quick-start/getting-started] and creating a app. Once your app is created, name your bot and head over to the OAUTH2 tab to generate a invite link. In this tab you can ignore the top half of the page and in "OAuth2 URL Generator" select "bot". This will open a new set of options where you can select permissions. I believe all we will need are the 3 options selected in the image below (Connect, Speak, Use Voice Activity), we may not even need "Use Voice Activity" however i am unsure as my used bot is given "administrator" permissions. Lastly go ahead and copy and paste your generated link into your browser or discord, and add your bot to the desired server. (You may have to give your bot permissions once in the server if channels are hidden etc)
+      
         ![image](https://github.com/user-attachments/assets/14561280-e138-4087-ac78-66c694cb7b19)
+   
     I haven't invited or created a bot recently so apologizes if my instructions are missing something.
 
     - Open up my provided JS code in your IDE of choice and set your directory to where ever you saved my file, I suggest making a new folder for it. (If you dont see a terminal when you open the file then -> Terminal - New Terminal)
       - Change your directory in the terminal with the cd command. Open the location of the MusicBot file, in the address bar you can copy the address as text. In the terminal type "cd" and paste the address and then enter (Dont use spaces when naming files or folders).
+        
        ![image](https://github.com/user-attachments/assets/c1d5a229-8af8-4fca-af9c-bcff65314aad)
        ![image](https://github.com/user-attachments/assets/a3bb047d-c2c7-4174-a2ee-b59969038f35)
 
